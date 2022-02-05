@@ -4,19 +4,207 @@ title: Lecture Notes
 uid: 6f8b7683-e6fa-e2e4-2190-74d9e42f0914
 ---
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1-2 | Covert movement and logical form | ([PDF]({{< baseurl >}}/resources/lec1_logical)) |
-| 3-4 | Reconstruction and logical form | ([PDF]({{< baseurl >}}/resources/reconstruction)) |
-| 5 | _Wh_\-movement: Islands, barriers and successive-cyclicity |  {{< br >}}{{< br >}} Part 1 ([PDF]({{< baseurl >}}/resources/subjacency_part1)) {{< br >}}{{< br >}} "On _Wh_\-Movement" ([PDF]({{< baseurl >}}/resources/wh_movement)) (Courtesy of David Pesetsky. Used with permission.) {{< br >}}{{< br >}}  |
-| 6 | _Wh_\-movement: Islands, barriers and successive-cyclicity (cont.) | Part 2 ([PDF]({{< baseurl >}}/resources/ced_part2)) |
-| 7 | _Wh_\-movement: Islands, barriers and successive-cyclicity (cont.) | Part 3 ([PDF]({{< baseurl >}}/resources/barriers_part3)) |
-| 8 | Superiority, probes and goals | ([PDF]({{< baseurl >}}/resources/superiority)) |
-| 9 | Superiority, probes and goals (cont.) | &nbsp; |
-| 10-11 | Remnant movement, derivations, probes and goals | &nbsp; |
-| 12-13 | Weak islands and relativized minimality | ([PDF]({{< baseurl >}}/resources/weak_islands)) |
-| 14-17 | Phases, barriers, and spell-out |  {{< br >}}{{< br >}} Main points ([PDF]({{< baseurl >}}/resources/main_points)) {{< br >}}{{< br >}} Minimalist inquiries ([PDF]({{< baseurl >}}/resources/minimalist_hdt)) (Courtesy of David Pesetsky. Used with permission.) {{< br >}}{{< br >}} Derivation by phase ([PDF]({{< baseurl >}}/resources/derivation)) (Courtesy of David Pesetsky. Used with permission.) {{< br >}}{{< br >}} Cyclic linearization ([PDF]({{< baseurl >}}/resources/linearization)) {{< br >}}{{< br >}} Holmberg's generalization ([PDF]({{< baseurl >}}/resources/generalization)) {{< br >}}{{< br >}}  |
-| 18-19 | _Wh_\-movement: Pied-piping | &nbsp; |
-| 20-22 | A vs. A-bar movement and scrambling | ([PDF]({{< baseurl >}}/resources/scrambling)) |
-| 23-24 | Gapping | &nbsp; |
-| 25-26 | Parasitic gaps |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Covert movement and logical form
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec1_logical))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Reconstruction and logical form
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/reconstruction))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+_Wh_\-movement: Islands, barriers and successive-cyclicity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Part 1 ([PDF]({{< baseurl >}}/resources/subjacency_part1))
+
+"On _Wh_\-Movement" ([PDF]({{< baseurl >}}/resources/wh_movement)) (Courtesy of David Pesetsky. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Wh_\-movement: Islands, barriers and successive-cyclicity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Part 2 ([PDF]({{< baseurl >}}/resources/ced_part2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+_Wh_\-movement: Islands, barriers and successive-cyclicity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Part 3 ([PDF]({{< baseurl >}}/resources/barriers_part3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Superiority, probes and goals
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/superiority))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Superiority, probes and goals (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+Remnant movement, derivations, probes and goals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Weak islands and relativized minimality
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/weak_islands))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-17
+{{< tdclose >}}
+{{< tdopen >}}
+Phases, barriers, and spell-out
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Main points ([PDF]({{< baseurl >}}/resources/main_points))
+
+Minimalist inquiries ([PDF]({{< baseurl >}}/resources/minimalist_hdt)) (Courtesy of David Pesetsky. Used with permission.)
+
+Derivation by phase ([PDF]({{< baseurl >}}/resources/derivation)) (Courtesy of David Pesetsky. Used with permission.)
+
+Cyclic linearization ([PDF]({{< baseurl >}}/resources/linearization))
+
+Holmberg's generalization ([PDF]({{< baseurl >}}/resources/generalization))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+_Wh_\-movement: Pied-piping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-22
+{{< tdclose >}}
+{{< tdopen >}}
+A vs. A-bar movement and scrambling
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/scrambling))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Gapping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Parasitic gaps
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

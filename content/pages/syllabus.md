@@ -33,16 +33,153 @@ Assignments will be due once a week on a day we will specify (after coordination
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1-2 | Covert movement and logical form | &nbsp; |
-| 3-4 | Reconstruction and logical form | Homework 1 and 2 due in Ses #3 |
-| 5-7 | _Wh_\-movement: Islands, barriers and successive-cyclicity | &nbsp; |
-| 8-9 | Superiority, probes and goals | Homework 3 due in Ses #8 |
-| 10-11 | Remnant movement, derivations, probes and goals | &nbsp; |
-| 12-13 | Weak islands and relativized minimality | Homework 4 due in Ses #12 |
-| 14-17 | Phases, barriers, and spell-out | Homework 5 due in Ses#16 |
-| 18-19 | _Wh_\-movement: Pied-piping | Homework 6 due in Ses#18 |
-| 20-22 | A vs. A-bar movement and scrambling | &nbsp; |
-| 23-24 | Gapping | &nbsp; |
-| 25-26 | Parasitic gaps | Squib due one week after Ses #26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Covert movement and logical form
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Reconstruction and logical form
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 and 2 due in Ses #3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+_Wh_\-movement: Islands, barriers and successive-cyclicity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Superiority, probes and goals
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due in Ses #8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-11
+{{< tdclose >}}
+{{< tdopen >}}
+Remnant movement, derivations, probes and goals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Weak islands and relativized minimality
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due in Ses #12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-17
+{{< tdclose >}}
+{{< tdopen >}}
+Phases, barriers, and spell-out
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due in Ses#16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+_Wh_\-movement: Pied-piping
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due in Ses#18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-22
+{{< tdclose >}}
+{{< tdopen >}}
+A vs. A-bar movement and scrambling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-24
+{{< tdclose >}}
+{{< tdopen >}}
+Gapping
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-26
+{{< tdclose >}}
+{{< tdopen >}}
+Parasitic gaps
+{{< tdclose >}}
+{{< tdopen >}}
+Squib due one week after Ses #26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
