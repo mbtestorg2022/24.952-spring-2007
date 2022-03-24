@@ -186,7 +186,7 @@ Fox, Danny, and David Pesetsky. "Cyclic Linearization of Syntactic Structure." _
 
 Holmberg, Anders. "Remarks on Holmberg's Generalization." _Studia Linguistica_ 53 (1999): 1-39.
 
-Ko, Heejeong. "Asymmetries in Scrambling and Cyclic Linearization." _Linguistic Inquiry_ 28 (2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://muse.jhu.edu/journals/linguistic_inquiry/v038/38.1ko.pdf))
+Ko, Heejeong. "Asymmetries in Scrambling and Cyclic Linearization." _Linguistic Inquiry_ 28 (2007). ([PDF](http://muse.jhu.edu/journals/linguistic_inquiry/v038/38.1ko.pdf))
 
 
 {{< tdclose >}}
