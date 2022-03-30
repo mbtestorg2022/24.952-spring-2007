@@ -5,6 +5,7 @@ description: Lecture notes about covert movement and logical form, cross linguis
   and binding theory.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-952-advanced-syntax-spring-2007/6830dadd424e86ef29a686f41dcf25d2_lec1_logical.pdf
 file_type: application/pdf
+parent_uid: 6f8b7683-e6fa-e2e4-2190-74d9e42f0914
 resourcetype: Document
 title: lec1_logical.pdf
 uid: 6830dadd-424e-86ef-29a6-86f41dcf25d2
